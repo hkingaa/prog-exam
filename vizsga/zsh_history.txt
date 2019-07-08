@@ -1,0 +1,15 @@
+: 1562573304:0;cd Flow
+: 1562573316:0;cd vizsga
+: 1562573338:0;touch zeta-szakaszzaro
+: 1562573340:0;ls
+: 1562573444:0;nano zeta-szakaszzaro
+: 1562573504:0;echo 'Hello' > zeta-szakaszzaro
+: 1562573606:0;mv zeta-szakaszzaro feladat
+: 1562573673:0;cp feladat feladat2
+: 1562573675:0;ls
+: 1562573725:0;rm feladat2
+: 1562573754:0;cat feladat
+: 1562574273:0;ls /etc/systemd
+: 1562574312:0;npm install mysql-server
+: 1562574517:0;cat ~/.zsh_history
+
