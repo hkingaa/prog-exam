@@ -1,0 +1,53 @@
+// 1. Mi a Posix?
+
+// 2. Mi az az X11?
+Unix hálózati protokoll
+
+//3. stdin stoud
+standard input és standard output
+
+//4.daemonok
+
+//5.Mit tartalmaznak a következő mappák /bin, /etc, /usr, /home?
+
+//6.Mit jelölnek a ponttal kezdődő fájlok?
+rejtett fájlokat
+
+//7.
+abszolút home/usr/flow:file.txt
+relatív ./file.txt
+
+//8.Hozz létre egy üres fájlt zeta szakasszáró néven
+touch zeta-szakaszzaro
+
+//9.Írj bele az echo segítségével egy 'hello'tartalmaznak
+echo 'Hello' > zeta-szakaszzaro
+
+//10. Nevezd át a fájt 'feladat'ra
+mv zeta-szakaszzaro feladat
+
+//11. Másold le a fájlt feladat2-re
+cp feladat feladat2
+
+//12. Töröld a feladat2-t 
+rm feladat2
+
+//13. Írasd ki a feladat fájl tartalmát
+cat feladat
+
+//14. Grepeld ki a /var/log/syslog fájlból azokat a sorokat amik tartalmazzák a NetworkManager karakterláncot
+
+
+//15. Listázd ki az /etc/systemd mappa tartalmát 
+ls /etc/systemd 
+
+Telepítsd fel a mysql-server csomagot
+npm install mysql-server
+
+Hozz létre egy git repot prog exam néven
+mkdir prog-exam
+cd prog-exam
+git init prog-exam
+
+
+
